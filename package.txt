@@ -1,0 +1,8 @@
+NAME=wpa-supplicant
+VERSION=2.6
+REVISION=1
+LICENSE=BSD-3-Clause
+SRC=https://w1.fi/releases/wpa_supplicant-2.6.tar.gz
+SRCMD5=8f71910c03db363b41e2ea62057a4311
+BUILDDEPS=dbus libxml2
+INSTALLDEPS=dbus libxml2
